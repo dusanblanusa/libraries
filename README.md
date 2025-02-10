@@ -8,9 +8,10 @@ Train the models using the train_models notebook and check the metrics.
 Investigate the data further using the feature_selection_and_shap notebook to determine the impact of each feature using AI models and SHAP analysis.
 
 ## Utils folder:
-preprocess.py – Functions for preprocessing each of the .csv files and merging them into a dataset ready for model training.
-visualization.py – Module for visualizing the data, with an emphasis on the ratio between books returned late and on time, in relation to independent features.
-feature_selection.py – Module for sorting the features by their importance to the model.
-model_training.py – Module for training AI models.
-shap_stats.py – Module for implementing SHAP analysis on our data.
+- preprocess.py – Functions for preprocessing each of the .csv files and merging them into a dataset ready for model training.
+- visualization.py – Module for visualizing the data, with an emphasis on the ratio between books returned late and on time, in relation to independent features.
+- feature_selection.py – Module for sorting the features by their importance to the model.
+- model_training.py – Module for training AI models.
+- shap_stats.py – Module for implementing SHAP analysis on our data.
+
 Required Python libraries are listed in the requirements.txt file.
