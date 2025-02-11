@@ -15,3 +15,5 @@ This is the project for the local library with a problem. Their books are being 
 - shap_stats.py – Module for implementing SHAP analysis on our data.
 
 Required Python libraries are listed in the requirements.txt file.
+
+![image](https://github.com/user-attachments/assets/6a742349-e454-4987-b8a4-0bd0b8e006b7)
